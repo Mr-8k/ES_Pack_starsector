@@ -1,0 +1,9 @@
+{
+  "id":"ES Pack",
+  "name":"ES Pack",
+  "author":"Entity 8000",
+  "version":"1.0",
+  "description":"Something that took far too long, enjoy. Requires LazyLib. Blueprint does not drop, however it can be reverse engineered (Industrial Evolution). Find it at your local Tri-tachyon market/super ship start today!",
+  "gameVersion":"0.9.1a",
+  "jars":["jars/ES Pack.jar"],
+}
