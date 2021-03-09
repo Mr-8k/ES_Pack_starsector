@@ -5,7 +5,6 @@ import com.fs.starfarer.api.combat.ShipSystemAIScript;
 import com.fs.starfarer.api.combat.ShipSystemAPI;
 import com.fs.starfarer.api.combat.ShipwideAIFlags;
 import com.fs.starfarer.api.combat.WeaponAPI;
-import java.util.Iterator;
 import java.util.List;
 
 import org.lazywizard.lazylib.MathUtils;
@@ -15,9 +14,7 @@ public class ESP_engine_boost_toggle_ai implements ShipSystemAIScript {
 
     private ShipSystemAPI system;
     private ShipAPI ship;
-    private float rangeWeapon = 0;
-    private float compt = 0;
-    private final float comptmax = 1;
+    private int rangeWeapon = 0;
 
     @Override
     public void init(ShipAPI ship, ShipSystemAPI system, ShipwideAIFlags flags, com.fs.starfarer.api.combat.CombatEngineAPI engine) {
@@ -42,23 +39,16 @@ public class ESP_engine_boost_toggle_ai implements ShipSystemAIScript {
 
     @Override
     public void advance(float amount, Vector2f missileDangerDir, Vector2f collisionDangerDir, ShipAPI target) {
-        compt += amount;
-
-        if (compt < comptmax) {
-            return;
-        }
-
-        compt = 0;
-
+        ShipwideAIFlags flags = ship.getAIFlags();
         boolean usesystem = false;
 
         if (target != null) {
             float distance = MathUtils.getDistance(ship, target);
-            if (distance > rangeWeapon) {
+            if (distance > rangeWeapon || flags.hasFlag(ShipwideAIFlags.AIFlags.BACK_OFF)) {
                 usesystem = true;
             }
         }
-        if (target == null) {
+        if (target == null && ship.getFluxLevel() == 0) {
                 usesystem = true;
         }
         if (usesystem) {

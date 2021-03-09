@@ -12,9 +12,9 @@ public class ESP_engine_boost_toggle extends BaseShipSystemScript {
 
     public static final float SPEED_BONUS = 70f;
     public static final float MANEUVER_BONUS = 50f;
-    private float orig = 360f;
+    private final float  orig = 360f;
+    private final float locked_arc = 90f;
     private float arc = 1f;
-    private float locked_arc = 90f;
 
 
     @Override
