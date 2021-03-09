@@ -1,5 +1,0 @@
-name,id,tier,rarity,base value,range,damage/second,damage/shot,emp,impact,turn rate,OPs,ammo,ammo/sec,reload size,type,energy/shot,energy/second,chargeup,chargedown,burst size,burst delay,min spread,max spread,spread/shot,spread decay/sec,beam speed,proj speed,launch speed,flight time,proj hitpoints,hints,tags,groupTag,tech/manufacturer,for weapon tooltip>>,primaryRoleStr,speedStr,trackingStr,turnRateStr,accuracyStr,customPrimary,customPrimaryHL,customAncillary,customAncillaryHL,noDPSInTooltip,number
-Kilopulse Laser,ESP_Kilopulse,,,1,800,,225,,1,20,30,30,1.7777,,ENERGY,168.75,,0,0.225,1,,0,0,0,5,,1000,,,,SYSTEM,,,Tri-Tachyon,,General,,,,,,,,,,88501
-#Deco,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,ESP_Daedalus_cover_R,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,88502
-,ESP_Daedalus_cover_L,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SYSTEM,,,,,,,,,,,,,,,88503

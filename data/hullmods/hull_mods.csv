@@ -1,9 +1,0 @@
-name,id,tier,rarity,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,tech/manufacturer,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sprite
-Pinnacle,ESP_Pinnacle,,,,,,,TRUE,,Tri-Tachyon,0,0,0,0,data.hullmods.ESP_Pinnacle,"The sophisticated systems in this vessel are all tightly packed and integrated together, rendering the removal of safety features impossible.
-Comes with additional benefits for those who insist on daredevil piloting.
-
-- Vent rate increased by an additional %s
-- Ship suffers %s
-- Ship will not break apart and is almost always recoverable when disabled
-- Incompatible with %s
-",,graphics/hullmods/pinnacle.png
