@@ -1,0 +1,19 @@
+{
+	"id":"ESP_siege_mode",
+    "type":"ENGINE_MOD",
+    "aiType":"CUSTOM",
+	
+    "aiScript":"data.shipsystems.scripts.ai.ESP_siege_mode_ai",
+	"statsScript":"data.shipsystems.scripts.ESP_siege_mode",
+	
+	"engineGlowLengthMult":0.8,
+	"engineGlowWidthMult":0.55,
+	"engineGlowGlowMult":0.5,
+	
+	"useSound":"system_high_energy_focus_activate",
+	"deactivateSound":"system_high_energy_focus_deactivate",
+
+	"outOfUsesSound":"gun_out_of_ammo",
+	"loopSound":"system_high_energy_focus_loop",
+	
+}

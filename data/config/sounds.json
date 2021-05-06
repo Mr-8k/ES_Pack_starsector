@@ -1,0 +1,8 @@
+{
+        "kilopulse":[
+                {"file":"sounds/ESP Sounds/kilopulse.ogg","pitch":1,"volume":1},
+					],		
+        "focusingbeamlance_loop":[
+                {"file":"sounds/ESP Sounds/focusingbeamlance_loop.ogg","pitch":1,"volume":1},
+					],
+}
