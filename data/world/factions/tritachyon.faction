@@ -1,8 +1,8 @@
 {
     "hullFrequency":{
         "hulls":{
-			"ESP_Daedalus":1,
-			"ESP_Daedalus_Mod1":0.5,
+			"ESP_Daedalus":6,
+			"ESP_Daedalus_Mod1":4,
         },
     },
     "knownShips":{
@@ -14,8 +14,8 @@
 	"priorityShips":{
 		"tags":[],
 		"hulls":[
-			"ESP_Daedalus",
-			"ESP_Daedalus_Mod1",
+			#"ESP_Daedalus",
+			#"ESP_Daedalus_Mod1",
 		],
 	},
     
