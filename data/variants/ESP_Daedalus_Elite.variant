@@ -1,6 +1,6 @@
 {
     "displayName": "Elite",
-    "fluxCapacitors": 2,
+    "fluxCapacitors": 5,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "ESP_Daedalus",
@@ -8,10 +8,11 @@
         "targetingunit",
         "stabilizedshieldemitter",
         "hardenedshieldemitter",
-		"heavyarmor",
+        "heavyarmor",
         "auxiliarythrusters"
     ],
     "permaMods": [],
+    "sMods": [],
     "variantId": "ESP_Daedalus_Elite",
     "weaponGroups": [
         {

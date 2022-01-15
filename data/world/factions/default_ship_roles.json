@@ -1,6 +1,22 @@
 {
     "combatLarge":{
 		"ESP_Daedalus_Elite":10,
-		"ESP_Daedalus_Mod1_Elite":10,
-	},   
+		"ESP_Daedalus_Mod1_Elite":10
+	},
+	
+	"civilianRandom":{
+		"ESP_Yak_Standard":0.3,
+		"ESP_Yak_Missile":0.3
+	},
+	
+	"tug":{
+		"ESP_Yak_Standard":5,
+		"ESP_Yak_Missile":5
+
+	},
+	
+	"utility":{
+		"ESP_Yak_Standard":1,
+		"ESP_Yak_Missile":1
+	}
 }

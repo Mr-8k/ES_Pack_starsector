@@ -1,6 +1,6 @@
 {
     "displayName": "Elite",
-    "fluxCapacitors": 13,
+    "fluxCapacitors": 16,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "ESP_Daedalus_Mod1",
@@ -11,6 +11,7 @@
         "heavyarmor"
     ],
     "permaMods": [],
+    "sMods": [],
     "variantId": "ESP_Daedalus_Mod1_Elite",
     "weaponGroups": [
         {

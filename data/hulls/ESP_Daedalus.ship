@@ -2,7 +2,7 @@
   "hullName": "Daedalus",
   "hullId": "ESP_Daedalus",
   "hullSize": "CRUISER",
-  "spriteName": "graphics/ships/Daedalus.png",
+  "spriteName": "graphics/ships/ESP_Daedalus.png",
   "style": "HIGH_TECH",
   "height": 228,
   "width": 192,

@@ -1,4 +1,3 @@
 Contains:
--2 elite high tech "cruisers" (dp is that of a capital ship)
--Daedalus and the Mod.1 variant
--known by tritachyon
+-2 elite high tech "cruisers" (dp is that of a capital ship) (Daedalus and the Mod.1 variant) (known by tritachyon)
+-1 combat tug (Yak) that utilizes the forgotten monofilament tow cable

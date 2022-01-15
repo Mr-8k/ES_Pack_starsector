@@ -4,7 +4,7 @@
 	"type":"DECORATIVE",
 	"size":"LARGE",
 	"showDamageWhenDecorative":true,
-	"turretSprite":"graphics/ships/Daedalus_cover_R.png",
+	"turretSprite":"graphics/ships/ESP_Daedalus_cover_R.png",
 	"hardpointSprite":"",
         #"renderHints":["RENDER_ADDITIVE"],
 	"renderBelowAllWeapons":"false",
