@@ -3,7 +3,13 @@
   "name":"Emil's Mistake Pack",
   "author":"Entity 8000",
   "version":"1.0.3",
-  "description":"Something that took far too long, enjoy. Requires LazyLib. Blueprint can be found as a rare or raided, reverse engineering should be possible. Find it at your local Tri-tachyon market/super ship start today! (there's 2 now)",
+  "description":"Something that took far too long, enjoy. Requires LazyLib.",
   "gameVersion":"0.95.1a-RC6",
+  "dependencies": [
+    {
+      "id": "lw_lazylib",
+      "name": "LazyLib"
+    }
+  ],
   "jars":["jars/ES Pack.jar"]
 }
