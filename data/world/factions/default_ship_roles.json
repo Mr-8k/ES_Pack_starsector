@@ -5,8 +5,8 @@
 	},
 	
 	"civilianRandom":{
-		"ESP_Yak_Standard":0.3,
-		"ESP_Yak_Missile":0.3
+		"ESP_Yak_Standard":0.6,
+		"ESP_Yak_Missile":0.6
 	},
 	
 	"tug":{
@@ -16,7 +16,7 @@
 	},
 	
 	"utility":{
-		"ESP_Yak_Standard":1,
-		"ESP_Yak_Missile":1
+		"ESP_Yak_Standard":2,
+		"ESP_Yak_Missile":2
 	}
 }

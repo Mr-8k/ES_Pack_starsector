@@ -11,7 +11,5 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="LazyLib 095" level="application" />
     <orderEntry type="library" name="starsector-core 095" level="application" />
-    <orderEntry type="library" name="starsector-core" level="application" />
-    <orderEntry type="library" name="LazyLib" level="application" />
   </component>
 </module>
