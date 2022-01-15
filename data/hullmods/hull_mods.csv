@@ -5,6 +5,5 @@ Comes with additional benefits for those who insist on daredevil piloting.
 - Vent rate increased by an additional %s
 - Ship suffers %s
 - Ship will not break apart and is almost always recoverable when disabled
-- Incompatible with %s
-",,graphics/hullmods/pinnacle.png
+- Incompatible with %s",,graphics/hullmods/pinnacle.png
 Monofilament Tow Cable,tow_cable,,,,,,,TRUE,,,0,0,0,0,com.fs.starfarer.api.impl.campaign.TowCable,Improves the maximum burn level of the slowest ship in the fleet by 1. Multiple tugs cannot be used to speed up the same ship by more than 1.,Increases burn level of another ship.,graphics/hullmods/monofilament_cable.png
