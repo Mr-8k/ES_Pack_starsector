@@ -4,6 +4,6 @@
   "author":"Entity 8000",
   "version":"1.0.3",
   "description":"Something that took far too long, enjoy. Requires LazyLib. Blueprint can be found as a rare or raided, reverse engineering should be possible. Find it at your local Tri-tachyon market/super ship start today! (there's 2 now)",
-  "gameVersion":"0.95a-RC15",
+  "gameVersion":"0.95.1a-RC6",
   "jars":["jars/ES Pack.jar"]
 }
