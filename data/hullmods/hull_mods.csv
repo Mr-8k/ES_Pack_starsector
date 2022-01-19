@@ -5,5 +5,9 @@ Comes with additional benefits for those who insist on daredevil piloting.
 - Vent rate increased by an additional %s
 - Ship suffers %s
 - Ship will not break apart and is almost always recoverable when disabled
-- Incompatible with %s",,graphics/hullmods/pinnacle.png
+- Incompatible with %s",,graphics/hullmods/ESP_pinnacle.png
+Rugged Phase Coils,ESP_adaptive_coils_2,3,,"phase, merc, tritachyon",Phase,10000,,,,,3,6,9,15,data.hullmods.ESP_AdaptivePhaseCoils_2,"Phase coils are less able to maintain a connection with normal space as the ship's hard flux levels rise, resulting in a greatly reduced top speed as the coils struggle to gain traction.
+
+This modification allows the coils to handle it, %s. An %s is required to oversee their proper application, otherwise this hullmod %s.",Removes impact of hard flux level on top speed while phased.,graphics/hullmods/ESP_phase_field.png
+,,,,,,,,,,,,,,,,,,
 Monofilament Tow Cable,tow_cable,,,,,,,TRUE,,,0,0,0,0,com.fs.starfarer.api.impl.campaign.TowCable,Improves the maximum burn level of the slowest ship in the fleet by 1. Multiple tugs cannot be used to speed up the same ship by more than 1.,Increases burn level of another ship.,graphics/hullmods/monofilament_cable.png

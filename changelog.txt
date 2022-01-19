@@ -1,3 +1,6 @@
+1.0.4
+-new phase hullmod, allows full countering of slowdown effect
+
 1.0.3
 -Highlighting of descriptions
 -Added Yak-class tug, part of base_bp, has monofilament tow cable, combat capable
