@@ -2,9 +2,9 @@
   "id":"ES Pack",
   "name":"Emil's Mistake Pack",
   "author":"Entity 8000",
-  "version":"1.0.4",
+  "version":"1.0.5",
   "description":"Something that took far too long, enjoy. Requires LazyLib.",
-  "gameVersion":"0.95.1a-RC6",
+  "gameVersion":"0.96a-RC69",
   "dependencies": [
     {
       "id": "lw_lazylib",

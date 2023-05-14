@@ -10,7 +10,7 @@ public class ESP_AdaptivePhaseCoils_2 extends BaseHullMod {
 
     private static final String ESP_id ="ESP_PHASE_FLAT_THRESHOLD";
 
-    public static float FLUX_THRESHOLD_INCREASE_FLAT = 10000f;
+    public static float FLUX_THRESHOLD_INCREASE_FLAT = 100000f;
 
 /*    public void applyEffectsBeforeShipCreation(HullSize hullSize, MutableShipStatsAPI stats, String id) {
       stats.getDynamic().getMod(

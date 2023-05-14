@@ -17,5 +17,5 @@ An elite cruiser boasting the combat capabilities of a capital ship. No expense 
 ESP_Yak,SHIP,"An antiquated design, the Yak-class is the predecessor to the more modern Ox-class tug. It utilizes the dated method of towing a single ship at a time. This simpler technology allows for more space within the chassis to be dedicated to combat, as such it is very much capable of going into battle, unlike its modern brother. Despite being outdated, its particular set of strengths allow it to continue to see use.",,,
 ,,,,,
 # Systems,,,,,
-ESP_engine_boost_toggle,SHIP_SYSTEM,Diverts power from the main armament and shields into secondary propulsion systems.,,,
-ESP_siege_mode,SHIP_SYSTEM,"Reduces all speed and maneuverability characteristics by 50%. Range is increased by 50%, flux costs are reduced by 1/3rd, minor shield speed bonus.",,,
+ESP_engine_boost_toggle,SHIP_SYSTEM,Diverts power from the main armament and shields into secondary propulsion systems.,Movement,,
+ESP_siege_mode,SHIP_SYSTEM,"Reduces all speed and maneuverability characteristics by 50%. Range is increased by 50%, flux costs are reduced by 1/3rd, minor shield speed bonus.",Offensive,,
